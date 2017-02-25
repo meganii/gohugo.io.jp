@@ -6,25 +6,34 @@ menu:
   main:
     parent: getting started
 next: /overview/quickstart
-title: Introduction to Hugo
+title: Hugo入門
 weight: 5
 ---
 
-## What is Hugo?
+<!--## What is Hugo?-->
+## Hugoとは?
 
-Hugo is a general-purpose website framework. Technically speaking, Hugo is
+<!--Hugo is a general-purpose website framework. Technically speaking, Hugo is
 a static site generator. Unlike other systems which dynamically build a page
 every time a visitor requests one, Hugo does the building when you create
 your content. Since websites are viewed far more often than they are
 edited, Hugo is optimized for website viewing while providing a great
-writing experience.
+writing experience.-->
+Hugoは汎用的なWebサイトジェネレータです。専門的にいうと、Hugoは静的サイトジェネレータです。
+ユーザのリクエスト毎に動的にページを生成するのとは違い、Hugoはコンテンツを作成したときに構築します。
+Webサイトは編集するよりも見られることが多いことから、HugoはWebサイト閲覧に最適化され、優れた編集体験を提供しています。
 
-Sites built with Hugo are extremely fast and very secure. Hugo sites can
+<!--Sites built with Hugo are extremely fast and very secure. Hugo sites can
 be hosted anywhere, including [Heroku][], [GoDaddy][], [DreamHost][],
 [GitHub Pages][], [Netlify][], [Surge][], [Aerobatic][], [Firebase Hosting][],
 [Google Cloud Storage][], [Amazon S3][] and [CloudFront][], and work well
 with CDNs. Hugo sites run without dependencies on expensive runtimes
-like Ruby, Python or PHP and without dependencies on any databases.
+like Ruby, Python or PHP and without dependencies on any databases.-->
+
+Hugoを使ってサイトを構築することは極めて高速で、とても安全です。Hugoサイトは、どこにでもホストすることができます。例えば、[Heroku][], [GoDaddy][], [DreamHost][],
+[GitHub Pages][], [Netlify][], [Surge][], [Aerobatic][], [Firebase Hosting][],
+[Google Cloud Storage][], [Amazon S3][] and [CloudFront][]などで、CDNも動作します。
+Hugoサイトは、RubyやPyhon, PHPのようなランタイムやデータベースに依存することなく動作します。
 
 [Heroku]: https://www.heroku.com/
 [GoDaddy]: https://www.godaddy.com/
@@ -39,12 +48,15 @@ like Ruby, Python or PHP and without dependencies on any databases.
 [Surge]: https://surge.sh
 [Netlify]: https://www.netlify.com
 
-We think of Hugo as the ideal website creation tool. With nearly instant
+<!--We think of Hugo as the ideal website creation tool. With nearly instant
 build times and the ability to rebuild whenever a change is made, Hugo
 provides a very fast feedback loop. This is essential when you are
-designing websites, but also very useful when creating content.
+designing websites, but also very useful when creating content.-->
 
-## What makes Hugo different?
+Hugoは理想的なWebサイト作成ツールと考えています。即時的なビルドと変更の度にリビルドできることは、とても速いフィードバックを得ることができます。これはWebサイトをデザインするときに必要不可欠なだけでなく、コンテンツを作成する際にも有用です。
+
+<!--## What makes Hugo different?-->
+## Hugoの特徴は?
 
 Web site generators render content into HTML files. Most are "dynamic
 site generators." That means the HTTP
@@ -85,11 +97,13 @@ actions will rebuild your entire web site using the `baseURL` setting
 from your site's configuration file. That's required to have your page
 links work properly with most hosting companies.
 
-## How fast is Hugo?
+<!--## How fast is Hugo?-->
+## Hugoはどのぐらい速いのか？
 
 {{% youtube CdiDYZ51a2o %}}
 
-## What does Hugo do?
+<!--## What does Hugo do?-->
+## Hugoはどうやって動いているの？
 
 In technical terms, Hugo takes a source directory of files and
 templates and uses these as input to create a complete website.
