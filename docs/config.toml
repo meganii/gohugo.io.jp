@@ -1,5 +1,5 @@
 title = "Hugo: A Fast and Flexible Website Generator"
-baseurl = "http://gohugo.io/"
+baseurl = "https://meganii.github.io/gohugo.io.jp/"
 MetaDataFormat = "yaml"
 pluralizeListTitles = false
 enableGitInfo = true
