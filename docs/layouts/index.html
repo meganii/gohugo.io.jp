@@ -8,23 +8,23 @@
     <title>Hugo :: A fast and modern static website engine</title>
 
     {{ "<!--icon for browser shortcuts-->" | safeHTML }}
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ .Site.BaseURL }}/favicon.ico">
 
     {{ "<!--icon to represent this web page on Apple iOS-->" | safeHTML }}
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}/apple-touch-icon.png">
 
     {{ "<!--Bootstrap core CSS-->" | safeHTML }}
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-stripped-gohugo.css">
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-changes-gohugo.css">
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-additions-gohugo.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/bootstrap-stripped-gohugo.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/bootstrap-changes-gohugo.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/bootstrap-additions-gohugo.css">
 
     {{ "<!--non-Bootstrap CSS (keep below Bootstrap CSS)-->" | safeHTML }}
-    <link rel="stylesheet" type="text/css" href="/vendor/OwlCarousel2/css/owl.carousel.css">
-    <link rel="stylesheet" type="text/css" href="/vendor/OwlCarousel2/css/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/vendor/OwlCarousel2/css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/vendor/OwlCarousel2/css/owl.theme.default.css">
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Arbutus+Slab%7CCabin:600%7CSource+Code+Pro">
-    <link rel="stylesheet" type="text/css" href="/css/hugofont.css">
-    <link rel="stylesheet" type="text/css" href="/css/home-page-style.css">
-    <link rel="stylesheet" type="text/css" href="/css/home-page-style-responsive.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/hugofont.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/home-page-style.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/home-page-style-responsive.css">
   </head>
   <body>
 
@@ -32,7 +32,7 @@
     <div id="top" class="header">
       <div class="vert-text">
         <a href="#intro">
-            <img class="logo" src="/img/hugo.png" alt="Hugo logo">
+            <img class="logo" src="{{ .Site.BaseURL }}/img/hugo.png" alt="Hugo logo">
         </a>
         <div class="buttonbox">
             <a class="btn-primary btn btn-lg" href="/overview/introduction/">
@@ -175,7 +175,7 @@
 
                   {{ "<!--wrapper for slides start-->" | safeHTML }}
                   <div class="carousel-inner owl-carousel">
-{{ partial "quotes.html" ((where $.Site.Data.references.quotes "date" "ge" (now.AddDate -2 0 0) | shuffle )) }}
+
                   </div>
                   {{ "<!--wrapper for slides end-->" | safeHTML }}
 
@@ -275,7 +275,7 @@
                     <li><a class="icon-octocat icon-2x" href="https://github.com/spf13/hugo"></a></li>
                 </ul>
                 <hr>
-                <p>Copyright &copy; Steve Francia 2013&ndash;{{ now.Format "2006" }}</p>
+                <p>Copyright &copy; Steve Francia 2013&ndash;</p>
               </div>
             </div>
             {{ "<!--row end-->" | safeHTML }}
@@ -285,13 +285,13 @@
         {{ "<!--footer end-->" | safeHTML }}
 
   {{ "<!--JavaScript: Keep at the end of the document so the page loads faster-->" | safeHTML }}
-  <script src="/vendor/jquery/js/jquery-2.1.4.min.js"></script>
+  <script src="{{ .Site.BaseURL }}vendor/jquery/js/jquery-2.1.4.min.js"></script>
 
   {{ "<!--Bootstrap core JavaScript here-->" | safeHTML }}
   {{ `<!--<script src="/vendor/twitter/js/bootstrap.min.js"></script>-->` | safeHTML }}
 
-  <script src="/vendor/OwlCarousel2/js/owl.carousel.min.js"></script>
-  <script src="/js/owl.carousel-custom.js"></script>
+  <script src="{{ .Site.BaseURL }}/vendor/OwlCarousel2/js/owl.carousel.min.js"></script>
+  <script src="{{ .Site.BaseURL }}/js/owl.carousel-custom.js"></script>
 
   {{ "<!--custom JavaScript-->" | safeHTML }}
   <script>

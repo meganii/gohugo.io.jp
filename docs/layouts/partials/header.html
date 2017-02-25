@@ -6,20 +6,19 @@
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
     {{ .Hugo.Generator }}
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.ico" type="image/x-icon" />
 {{ .Scratch.Add "title" "" }}{{ if isset .Site.Data.titles .Title }}{{ .Scratch.Set "title" (index .Site.Data.titles .Title).title }}{{ else }}{{ .Scratch.Set "title" .Title}}{{end}}
     <title>Hugo - {{ .Scratch.Get "title" }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/bootstrap-stripped-gohugo.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/bootstrap-changes-gohugo.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/bootstrap-additions-gohugo.css">
 
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-stripped-gohugo.css">
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-changes-gohugo.css">
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-additions-gohugo.css">
-
-    <link rel="stylesheet" type="text/css" href="/vendor/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css" />
-    <link href="/css/style.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/css/content-style.css" />
-    <link href="/css/style-responsive.css" rel="stylesheet" />
-    <link rel="stylesheet" type="text/css" href="/vendor/highlightjs/css/monokai-sublime.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css" />
+    <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/content-style.css" />
+    <link href="{{ .Site.BaseURL }}css/style-responsive.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}vendor/highlightjs/css/monokai-sublime.css">
 
   </head>
 
@@ -35,7 +34,7 @@
             </div>
 
             <!--logo start-->
-            <a href="/" class="logo"><img src="/img/hugo-logo.png" style="height: 40px; vertical-align: bottom;"> <span style="font-size: small; text-transform: none;">v{{ .Site.Params.release }}</span></a>
+            <a href="/" class="logo"><img src="{{ .Site.BaseURL }}/img/hugo-logo.png" style="height: 40px; vertical-align: bottom;"> <span style="font-size: small; text-transform: none;">v{{ .Site.Params.release }}</span></a>
             <!--logo end-->
             <div class="top-nav notification-row">
                 <!-- notification dropdown end-->
