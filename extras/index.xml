@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extras on Hugo: A Fast and Flexible Website Generator</title>
-    <link>https://meganii.github.io/hugo/extras/index.xml</link>
+    <link>https://meganii.github.io/gohugo.io.jp/extras/index.xml</link>
     <description>Recent content in Extras on Hugo: A Fast and Flexible Website Generator</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 11 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://meganii.github.io/hugo/extras/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://meganii.github.io/gohugo.io.jp/extras/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GitInfo</title>
-      <link>https://meganii.github.io/hugo/extras/gitinfo/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/gitinfo/</link>
       <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/gitinfo/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/gitinfo/</guid>
       <description>
 
 &lt;p&gt;Hugo provides a way to integrate Git data into your site.&lt;/p&gt;
@@ -54,10 +54,10 @@ line or by setting &lt;code&gt;enableGitInfo&lt;/code&gt; to &lt;code&gt;true&lt
     
     <item>
       <title>Analytics in Hugo</title>
-      <link>https://meganii.github.io/hugo/extras/analytics/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/analytics/</link>
       <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/analytics/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/analytics/</guid>
       <description>
 
 &lt;p&gt;Hugo ships with prebuilt internal templates for Google Analytics tracking, including both synchronous and asynchronous tracking codes.&lt;/p&gt;
@@ -85,14 +85,14 @@ line or by setting &lt;code&gt;enableGitInfo&lt;/code&gt; to &lt;code&gt;true&lt
     
     <item>
       <title>Custom robots.txt</title>
-      <link>https://meganii.github.io/hugo/extras/robots-txt/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/robots-txt/</link>
       <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/robots-txt/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/robots-txt/</guid>
       <description>&lt;p&gt;Hugo can generated a customized &lt;a href=&#34;http://www.robotstxt.org/&#34;&gt;robots.txt&lt;/a&gt; in the
-&lt;a href=&#34;https://meganii.github.io/hugo/templates/go-templates/&#34;&gt;same way as any other templates&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/templates/go-templates/&#34;&gt;same way as any other templates&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;To enable it, just set &lt;code&gt;enableRobotsTXT&lt;/code&gt; option to &lt;code&gt;true&lt;/code&gt; in the &lt;a href=&#34;https://meganii.github.io/hugo/overview/configuration/&#34;&gt;configuration file&lt;/a&gt;. By default, it generates a robots.txt, which allows everything, with the following content:&lt;/p&gt;
+&lt;p&gt;To enable it, just set &lt;code&gt;enableRobotsTXT&lt;/code&gt; option to &lt;code&gt;true&lt;/code&gt; in the &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/overview/configuration/&#34;&gt;configuration file&lt;/a&gt;. By default, it generates a robots.txt, which allows everything, with the following content:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-http&#34;&gt;User-agent: *
 &lt;/code&gt;&lt;/pre&gt;
@@ -118,10 +118,10 @@ Disallow: {{.RelPermalink}}{{end}}
     
     <item>
       <title>Traversing Local Files</title>
-      <link>https://meganii.github.io/hugo/extras/localfiles/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/localfiles/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/localfiles/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/localfiles/</guid>
       <description>
 
 &lt;h2 id=&#34;traversing-local-files&#34;&gt;Traversing Local Files&lt;/h2&gt;
@@ -181,39 +181,39 @@ So, let&amp;rsquo;s list some of its CSS files.
     &lt;th&gt;Name&lt;/th&gt;
     &lt;tr&gt;
         &lt;td&gt;1440&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/hugo/css/hugo/bootstrap-additions-gohugo.css&#34;&gt; bootstrap-additions-gohugo.css&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/css/gohugo.io.jp/bootstrap-additions-gohugo.css&#34;&gt; bootstrap-additions-gohugo.css&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;2629&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/hugo/css/hugo/bootstrap-changes-gohugo.css&#34;&gt; bootstrap-changes-gohugo.css&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/css/gohugo.io.jp/bootstrap-changes-gohugo.css&#34;&gt; bootstrap-changes-gohugo.css&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;22485&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/hugo/css/hugo/bootstrap-stripped-gohugo.css&#34;&gt; bootstrap-stripped-gohugo.css&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/css/gohugo.io.jp/bootstrap-stripped-gohugo.css&#34;&gt; bootstrap-stripped-gohugo.css&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;2368&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/hugo/css/hugo/content-style.css&#34;&gt; content-style.css&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/css/gohugo.io.jp/content-style.css&#34;&gt; content-style.css&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;1277&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/hugo/css/hugo/home-page-style-responsive.css&#34;&gt; home-page-style-responsive.css&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/css/gohugo.io.jp/home-page-style-responsive.css&#34;&gt; home-page-style-responsive.css&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;3542&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/hugo/css/hugo/home-page-style.css&#34;&gt; home-page-style.css&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/css/gohugo.io.jp/home-page-style.css&#34;&gt; home-page-style.css&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;2828&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/hugo/css/hugo/hugofont.css&#34;&gt; hugofont.css&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/css/gohugo.io.jp/hugofont.css&#34;&gt; hugofont.css&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;1117&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/hugo/css/hugo/style-responsive.css&#34;&gt; style-responsive.css&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/css/gohugo.io.jp/style-responsive.css&#34;&gt; style-responsive.css&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;13897&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/hugo/css/hugo/style.css&#34;&gt; style.css&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/css/gohugo.io.jp/style.css&#34;&gt; style.css&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
 &lt;/table&gt;
 
@@ -231,15 +231,15 @@ Otherwise, it becomes relative to the current web page.&lt;/p&gt;
     
     <item>
       <title>Data-driven Content</title>
-      <link>https://meganii.github.io/hugo/extras/datadrivencontent/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/datadrivencontent/</link>
       <pubDate>Sat, 14 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/datadrivencontent/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/datadrivencontent/</guid>
       <description>
 
 &lt;p&gt;Data-driven content with a static site generator? Yes, it is possible!&lt;/p&gt;
 
-&lt;p&gt;In addition to the &lt;a href=&#34;https://meganii.github.io/hugo/extras/datafiles/&#34;&gt;data files&lt;/a&gt; feature, we have also
+&lt;p&gt;In addition to the &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/extras/datafiles/&#34;&gt;data files&lt;/a&gt; feature, we have also
 implemented the feature &amp;ldquo;Data-driven Content&amp;rdquo;, which lets you load
 any &lt;a href=&#34;http://www.json.org/&#34;&gt;JSON&lt;/a&gt; or
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Comma-separated_values&#34;&gt;CSV&lt;/a&gt; file
@@ -353,7 +353,7 @@ extension does not matter but the content does.&lt;/p&gt;
 
 &lt;h2 id=&#34;livereload&#34;&gt;LiveReload&lt;/h2&gt;
 
-&lt;p&gt;There is no chance to trigger a &lt;a href=&#34;https://meganii.github.io/hugo/extras/livereload/&#34;&gt;LiveReload&lt;/a&gt; when
+&lt;p&gt;There is no chance to trigger a &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/extras/livereload/&#34;&gt;LiveReload&lt;/a&gt; when
 the content of an URL changes. However, when a local JSON/CSV file changes,
 then a LiveReload will be triggered of course. Symlinks are not supported.&lt;/p&gt;
 
@@ -377,19 +377,19 @@ your Markdown files until the content has been downloaded.&lt;/p&gt;
     
     <item>
       <title>Data Files</title>
-      <link>https://meganii.github.io/hugo/extras/datafiles/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/datafiles/</link>
       <pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/datafiles/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/datafiles/</guid>
       <description>
 
-&lt;p&gt;In addition to the &lt;a href=&#34;https://meganii.github.io/hugo/templates/variables/&#34;&gt;built-in variables&lt;/a&gt; available from Hugo, you can specify your own custom data that can be accessed via templates or shortcodes.&lt;/p&gt;
+&lt;p&gt;In addition to the &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/templates/variables/&#34;&gt;built-in variables&lt;/a&gt; available from Hugo, you can specify your own custom data that can be accessed via templates or shortcodes.&lt;/p&gt;
 
 &lt;p&gt;Hugo supports loading data from &lt;a href=&#34;http://yaml.org/&#34;&gt;YAML&lt;/a&gt;, &lt;a href=&#34;http://www.json.org/&#34;&gt;JSON&lt;/a&gt;, and &lt;a href=&#34;https://github.com/toml-lang/toml&#34;&gt;TOML&lt;/a&gt; files located in the &lt;code&gt;data&lt;/code&gt; directory.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;It even works with &lt;a href=&#34;https://meganii.github.io/hugo/extras/livereload/&#34;&gt;LiveReload&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;It even works with &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/extras/livereload/&#34;&gt;LiveReload&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Data Files can also be used in &lt;a href=&#34;https://meganii.github.io/hugo/themes/overview/&#34;&gt;themes&lt;/a&gt;, but note: If the same &lt;code&gt;key&lt;/code&gt; is used in both the main data folder and in the theme&amp;rsquo;s data folder, the main one will win. So, for theme authors,  for theme specific data items that shouldn&amp;rsquo;t be overridden, it can be wise to prefix the folder structure with a namespace, e.g. &lt;code&gt;mytheme/data/mytheme/somekey/...&lt;/code&gt;. To check if any such duplicate exists, run hugo with the &lt;code&gt;-v&lt;/code&gt; flag, e.g. &lt;code&gt;hugo -v&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Data Files can also be used in &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/themes/overview/&#34;&gt;themes&lt;/a&gt;, but note: If the same &lt;code&gt;key&lt;/code&gt; is used in both the main data folder and in the theme&amp;rsquo;s data folder, the main one will win. So, for theme authors,  for theme specific data items that shouldn&amp;rsquo;t be overridden, it can be wise to prefix the folder structure with a namespace, e.g. &lt;code&gt;mytheme/data/mytheme/somekey/...&lt;/code&gt;. To check if any such duplicate exists, run hugo with the &lt;code&gt;-v&lt;/code&gt; flag, e.g. &lt;code&gt;hugo -v&lt;/code&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;the-data-folder&#34;&gt;The Data Folder&lt;/h2&gt;
 
@@ -478,10 +478,10 @@ Achievements:
     
     <item>
       <title>Scratch</title>
-      <link>https://meganii.github.io/hugo/extras/scratch/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/scratch/</link>
       <pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/scratch/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/scratch/</guid>
       <description>
 
 &lt;p&gt;&lt;code&gt;Scratch&lt;/code&gt; &amp;ndash; a &amp;ldquo;scratchpad&amp;rdquo; for your page-scoped variables. In most cases you can do well without &lt;code&gt;Scratch&lt;/code&gt;, but there are some use cases that aren&amp;rsquo;t solvable with Go&amp;rsquo;s templates without &lt;code&gt;Scratch&lt;/code&gt;&amp;rsquo;s help, due to scoping issues.&lt;/p&gt;
@@ -538,10 +538,10 @@ Achievements:
     
     <item>
       <title>Cross-References</title>
-      <link>https://meganii.github.io/hugo/extras/crossreferences/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/crossreferences/</link>
       <pubDate>Tue, 25 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/crossreferences/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/crossreferences/</guid>
       <description>
 
 &lt;p&gt;Hugo makes it easy to link documents together with the &lt;code&gt;ref&lt;/code&gt; and &lt;code&gt;relref&lt;/code&gt; shortcodes. These shortcodes are also used to safely provide links to headings inside of your content, whether across documents or within a document. The only difference between &lt;code&gt;ref&lt;/code&gt; and &lt;code&gt;relref&lt;/code&gt; is whether the resulting URL is absolute (&lt;code&gt;http://1.com/about/&lt;/code&gt;) or relative (&lt;code&gt;/about/&lt;/code&gt;).&lt;/p&gt;
@@ -649,7 +649,7 @@ hugo-a-fast-modern-static-web-engine
 
 &lt;h3 id=&#34;what-about-duplicate-heading-anchors&#34;&gt;What About Duplicate Heading Anchors?&lt;/h3&gt;
 
-&lt;p&gt;The technique outlined above works well enough, but some documents have headings with identical text, like the &lt;a href=&#34;https://meganii.github.io/hugo/extras/shortcodes/&#34;&gt;shortcodes&lt;/a&gt; page—there are three headings with the text &amp;ldquo;Example&amp;rdquo;. You can specify heading anchors manually:&lt;/p&gt;
+&lt;p&gt;The technique outlined above works well enough, but some documents have headings with identical text, like the &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/extras/shortcodes/&#34;&gt;shortcodes&lt;/a&gt; page—there are three headings with the text &amp;ldquo;Example&amp;rdquo;. You can specify heading anchors manually:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;### Example {#example-1}
 ### Example {#example-2}
@@ -700,10 +700,10 @@ was generated, not the document identifier; &lt;code&gt;ref&lt;/code&gt; and &lt
 rest for you.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;&amp;lt;a href=&#39;{{&amp;lt; relref &amp;quot;blog/post.md#example&amp;quot; &amp;gt;}}&#39;&amp;gt;Post Example&amp;lt;/a&amp;gt;
-&amp;lt;a href=&#39;https://meganii.github.io/hugo/blog/post.md#81df004…&#39;&amp;gt;Post Example&amp;lt;/a&amp;gt;
+&amp;lt;a href=&#39;https://meganii.github.io/gohugo.io.jp/blog/post.md#81df004…&#39;&amp;gt;Post Example&amp;lt;/a&amp;gt;
 
 [Post Two Example]({{&amp;lt; relref &amp;quot;blog/post2.md#example&amp;quot; &amp;gt;}})
-&amp;lt;a href=&#39;https://meganii.github.io/hugo/blog/post2.md#8cf1599…&#39;&amp;gt;Post Two Example&amp;lt;/a&amp;gt;
+&amp;lt;a href=&#39;https://meganii.github.io/gohugo.io.jp/blog/post2.md#8cf1599…&#39;&amp;gt;Post Two Example&amp;lt;/a&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Now you know.&lt;/p&gt;
@@ -712,10 +712,10 @@ rest for you.&lt;/p&gt;
     
     <item>
       <title>Comments in Hugo</title>
-      <link>https://meganii.github.io/hugo/extras/comments/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/comments/</link>
       <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/comments/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/comments/</guid>
       <description>
 
 &lt;p&gt;As Hugo is a static site generator, the content produced is static and doesn’t interact with the users. The most common interaction people ask for is comment capability.&lt;/p&gt;
@@ -809,10 +809,10 @@ for a given piece of content:&lt;/p&gt;
     
     <item>
       <title>Hugo Builders</title>
-      <link>https://meganii.github.io/hugo/extras/builders/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/builders/</link>
       <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/builders/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/builders/</guid>
       <description>
 
 &lt;p&gt;Hugo provides the functionality to quickly get a site, theme or page
@@ -830,7 +830,7 @@ started.&lt;/p&gt;
 quickly.&lt;/p&gt;
 
 &lt;p&gt;Hugo will only touch the files and create the directories (in the right
-places), &lt;a href=&#34;https://meganii.github.io/hugo/overview/configuration/&#34;&gt;configuration&lt;/a&gt; and content are up to
+places), &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/overview/configuration/&#34;&gt;configuration&lt;/a&gt; and content are up to
 you&amp;hellip; but luckily we have builders for content (see below).&lt;/p&gt;
 
 &lt;h2 id=&#34;new-theme&#34;&gt;New Theme&lt;/h2&gt;
@@ -844,7 +844,7 @@ you&amp;hellip; but luckily we have builders for content (see below).&lt;/p&gt;
 the needed files in your themes directory. Hugo will provide you with a
 license and theme.toml file with most of the work done for you.&lt;/p&gt;
 
-&lt;p&gt;Follow the &lt;a href=&#34;https://meganii.github.io/hugo/themes/creation/&#34;&gt;Theme Creation Guide&lt;/a&gt; once the builder is
+&lt;p&gt;Follow the &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/themes/creation/&#34;&gt;Theme Creation Guide&lt;/a&gt; once the builder is
 done.&lt;/p&gt;
 
 &lt;h2 id=&#34;new-content&#34;&gt;New Content&lt;/h2&gt;
@@ -852,7 +852,7 @@ done.&lt;/p&gt;
 &lt;p&gt;You will use this builder the most of all. Every time you want to create
 a new piece of content, the content builder will get you started right.&lt;/p&gt;
 
-&lt;p&gt;Leveraging &lt;a href=&#34;https://meganii.github.io/hugo/content/archetypes/&#34;&gt;content archetypes&lt;/a&gt; the content builder
+&lt;p&gt;Leveraging &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/content/archetypes/&#34;&gt;content archetypes&lt;/a&gt; the content builder
 will not only insert the current date and appropriate metadata, but it
 will pre-populate values based on the content type.&lt;/p&gt;
 
@@ -866,10 +866,10 @@ path starts from your content directory. Now, Hugo watches your content director
     
     <item>
       <title>LiveReload</title>
-      <link>https://meganii.github.io/hugo/extras/livereload/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/livereload/</link>
       <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/livereload/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/livereload/</guid>
       <description>
 
 &lt;p&gt;Hugo may not be the first static site generator to utilize LiveReload
@@ -945,10 +945,10 @@ Hugo injects the LiveReload &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; befo
     
     <item>
       <title>Menus</title>
-      <link>https://meganii.github.io/hugo/extras/menus/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/menus/</link>
       <pubDate>Wed, 14 May 2014 02:36:37 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/menus/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/menus/</guid>
       <description>
 
 &lt;p&gt;Hugo has a simple yet powerful menu system that permits content to be
@@ -971,7 +971,7 @@ placed in menus with a good degree of control without a lot of work.&lt;/p&gt;
 &lt;code&gt;.Site.Menus&lt;/code&gt; by name. For example, if I have a menu called &lt;code&gt;main&lt;/code&gt;, I would
 access it via &lt;code&gt;.Site.Menus.main&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;If you make use of the &lt;a href=&#34;https://meganii.github.io/hugo/hugo/content/multilingual/#menus&#34;&gt;multilingual feature&lt;/a&gt; you can define menus language independent.&lt;/p&gt;
+&lt;p&gt;If you make use of the &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/gohugo.io.jp/content/multilingual/#menus&#34;&gt;multilingual feature&lt;/a&gt; you can define menus language independent.&lt;/p&gt;
 
 &lt;p&gt;A menu entry has the following properties:&lt;/p&gt;
 
@@ -1043,7 +1043,7 @@ menu:
 &lt;h2 id=&#34;adding-non-content-entries-to-a-menu&#34;&gt;Adding (non-content) entries to a menu&lt;/h2&gt;
 
 &lt;p&gt;You can also add entries to menus that aren’t attached to a piece of
-content. This takes place in the sitewide &lt;a href=&#34;https://meganii.github.io/hugo/overview/configuration/&#34;&gt;config file&lt;/a&gt;.&lt;/p&gt;
+content. This takes place in the sitewide &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/overview/configuration/&#34;&gt;config file&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here’s an example &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
 
@@ -1147,7 +1147,7 @@ able to build your menu however you want.&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: use the &lt;code&gt;absLangURL&lt;/code&gt; or &lt;code&gt;relLangURL&lt;/code&gt; if your theme makes use of the &lt;a href=&#34;https://meganii.github.io/hugo/hugo/content/multilingual/&#34;&gt;multilingual feature&lt;/a&gt;. In contrast to &lt;code&gt;absURL&lt;/code&gt; and &lt;code&gt;relURL&lt;/code&gt; it adds the correct language prefix to the url. &lt;a href=&#34;https://meganii.github.io/hugo/hugo/templates/functions/#urls&#34;&gt;Read more&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: use the &lt;code&gt;absLangURL&lt;/code&gt; or &lt;code&gt;relLangURL&lt;/code&gt; if your theme makes use of the &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/gohugo.io.jp/content/multilingual/&#34;&gt;multilingual feature&lt;/a&gt;. In contrast to &lt;code&gt;absURL&lt;/code&gt; and &lt;code&gt;relURL&lt;/code&gt; it adds the correct language prefix to the url. &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/gohugo.io.jp/templates/functions/#urls&#34;&gt;Read more&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&#34;section-menu-for-the-lazy-blogger&#34;&gt;Section Menu for &amp;ldquo;the Lazy Blogger&amp;rdquo;&lt;/h2&gt;
@@ -1345,10 +1345,10 @@ able to build your menu however you want.&lt;/p&gt;
     
     <item>
       <title>URLs</title>
-      <link>https://meganii.github.io/hugo/extras/urls/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/urls/</link>
       <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/urls/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/urls/</guid>
       <description>
 
 &lt;h2 id=&#34;pretty-urls&#34;&gt;Pretty URLs&lt;/h2&gt;
@@ -1366,7 +1366,7 @@ Simply add &lt;code&gt;uglyurls = true&lt;/code&gt; to your site-wide &lt;code&g
 or use the &lt;code&gt;--uglyURLs=true&lt;/code&gt; flag on the command line.&lt;/p&gt;
 
 &lt;p&gt;If you want a specific piece of content to have an exact URL, you can
-specify this in the front matter under the &lt;code&gt;url&lt;/code&gt; key. See &lt;a href=&#34;https://meganii.github.io/hugo/content/organization/&#34;&gt;Content
+specify this in the front matter under the &lt;code&gt;url&lt;/code&gt; key. See &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/content/organization/&#34;&gt;Content
 Organization&lt;/a&gt; for more details.&lt;/p&gt;
 
 &lt;h2 id=&#34;canonicalization&#34;&gt;Canonicalization&lt;/h2&gt;
@@ -1416,13 +1416,13 @@ which can be problematic when you want to make your site browsable from a local 
     
     <item>
       <title>Pagination</title>
-      <link>https://meganii.github.io/hugo/extras/pagination/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/pagination/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/pagination/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/pagination/</guid>
       <description>
 
-&lt;p&gt;Hugo supports pagination for the home page, sections and taxonomies. It&amp;rsquo;s built to be easy use, but with loads of flexibility when needed. The real power shines when you combine it with &lt;a href=&#34;https://meganii.github.io/hugo/templates/functions/&#34;&gt;&lt;code&gt;where&lt;/code&gt;&lt;/a&gt;, with its SQL-like operators, &lt;code&gt;first&lt;/code&gt; and others &amp;mdash; you can even &lt;a href=&#34;https://meganii.github.io/hugo/templates/list/&#34;&gt;order the content&lt;/a&gt; the way you&amp;rsquo;ve become used to with Hugo.&lt;/p&gt;
+&lt;p&gt;Hugo supports pagination for the home page, sections and taxonomies. It&amp;rsquo;s built to be easy use, but with loads of flexibility when needed. The real power shines when you combine it with &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/templates/functions/&#34;&gt;&lt;code&gt;where&lt;/code&gt;&lt;/a&gt;, with its SQL-like operators, &lt;code&gt;first&lt;/code&gt; and others &amp;mdash; you can even &lt;a href=&#34;https://meganii.github.io/gohugo.io.jp/templates/list/&#34;&gt;order the content&lt;/a&gt; the way you&amp;rsquo;ve become used to with Hugo.&lt;/p&gt;
 
 &lt;h2 id=&#34;configuration&#34;&gt;Configuration&lt;/h2&gt;
 
@@ -1521,10 +1521,10 @@ which can be problematic when you want to make your site browsable from a local 
     
     <item>
       <title>Permalinks</title>
-      <link>https://meganii.github.io/hugo/extras/permalinks/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/extras/permalinks/</link>
       <pubDate>Mon, 18 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/extras/permalinks/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/extras/permalinks/</guid>
       <description>&lt;p&gt;By default, content is laid out into the target &lt;code&gt;publishdir&lt;/code&gt; (public)
 namespace matching its layout within the &lt;code&gt;contentdir&lt;/code&gt; hierarchy.
 The &lt;code&gt;permalinks&lt;/code&gt; site configuration option allows you to adjust this on a

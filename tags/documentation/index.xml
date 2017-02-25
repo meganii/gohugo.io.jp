@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation on Hugo: A Fast and Flexible Website Generator</title>
-    <link>https://meganii.github.io/hugo/tags/documentation/index.xml</link>
+    <link>https://meganii.github.io/gohugo.io.jp/tags/documentation/index.xml</link>
     <description>Recent content in Documentation on Hugo: A Fast and Flexible Website Generator</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="https://meganii.github.io/hugo/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://meganii.github.io/gohugo.io.jp/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>eurie Desk docs</title>
-      <link>https://meganii.github.io/hugo/showcase/eurie/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/showcase/eurie/</link>
       <pubDate>Sat, 15 Oct 2016 23:30:59 +0900</pubDate>
       
-      <guid>https://meganii.github.io/hugo/showcase/eurie/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/showcase/eurie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cinegy Open</title>
-      <link>https://meganii.github.io/hugo/showcase/cinegyopen/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/showcase/cinegyopen/</link>
       <pubDate>Mon, 05 Sep 2016 23:23:18 +0200</pubDate>
       
-      <guid>https://meganii.github.io/hugo/showcase/cinegyopen/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/showcase/cinegyopen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Camunda Docs</title>
-      <link>https://meganii.github.io/hugo/showcase/camunda-docs/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/showcase/camunda-docs/</link>
       <pubDate>Tue, 01 Dec 2015 04:20:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/showcase/camunda-docs/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/showcase/camunda-docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&lt;span lang=&#34;zh-CN&#34;&gt;语林灵&lt;/span&gt; (Yulinling)</title>
-      <link>https://meganii.github.io/hugo/showcase/yulinling.net/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/showcase/yulinling.net/</link>
       <pubDate>Wed, 09 Sep 2015 21:42:00 -0400</pubDate>
       
-      <guid>https://meganii.github.io/hugo/showcase/yulinling.net/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/showcase/yulinling.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Firefox Site Compatibility</title>
-      <link>https://meganii.github.io/hugo/showcase/fxsitecompat/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/showcase/fxsitecompat/</link>
       <pubDate>Tue, 26 Aug 2014 19:40:00 -0400</pubDate>
       
-      <guid>https://meganii.github.io/hugo/showcase/fxsitecompat/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/showcase/fxsitecompat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vamp.io</title>
-      <link>https://meganii.github.io/hugo/showcase/vamp/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/showcase/vamp/</link>
       <pubDate>Thu, 26 Jun 2014 15:45:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/showcase/vamp/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/showcase/vamp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YSlow Rules</title>
-      <link>https://meganii.github.io/hugo/showcase/yslow-rules/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/showcase/yslow-rules/</link>
       <pubDate>Mon, 07 Apr 2014 10:45:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/showcase/yslow-rules/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/showcase/yslow-rules/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CloudShark</title>
-      <link>https://meganii.github.io/hugo/showcase/cloudshark/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/showcase/cloudshark/</link>
       <pubDate>Thu, 27 Mar 2014 09:45:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/showcase/cloudshark/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/showcase/cloudshark/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://meganii.github.io/hugo/showcase/hugo/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/showcase/hugo/</link>
       <pubDate>Mon, 01 Jul 2013 07:32:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/showcase/hugo/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/showcase/hugo/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Api on Hugo: A Fast and Flexible Website Generator</title>
-    <link>https://meganii.github.io/hugo/tags/api/index.xml</link>
+    <link>https://meganii.github.io/gohugo.io.jp/tags/api/index.xml</link>
     <description>Recent content in Api on Hugo: A Fast and Flexible Website Generator</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="https://meganii.github.io/hugo/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://meganii.github.io/gohugo.io.jp/tags/api/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vamp.io</title>
-      <link>https://meganii.github.io/hugo/showcase/vamp/</link>
+      <link>https://meganii.github.io/gohugo.io.jp/showcase/vamp/</link>
       <pubDate>Thu, 26 Jun 2014 15:45:00 +0000</pubDate>
       
-      <guid>https://meganii.github.io/hugo/showcase/vamp/</guid>
+      <guid>https://meganii.github.io/gohugo.io.jp/showcase/vamp/</guid>
       <description></description>
     </item>
     
